@@ -1,8 +1,8 @@
 ## ✨ Hello there ✨
 🖖🏻  Greetings from the Netherlands. I'm a webdeveloper who loves to create beautiful user interfaces and solve complex problems/issues. Welcome to my profile and nice to meet you. 🖖🏻 
 <br />
- ⚡ I’m looking to forward to build my career as a developer.
-- [Find me (My portfolio) ](https://my-react-portfolio.netlify.app/)🥷
+- I’m looking to forward to build my career as a developer. ⚡ 
+- How to find me: [My portfolio ](https://my-react-portfolio.netlify.app/)🥷
 
 ### 📚 Projects
 - [Project management ](https://track-your-project.netlify.app/)⏰
