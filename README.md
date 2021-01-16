@@ -5,9 +5,9 @@
 - 🥷[Find me (My portfolio)](https://my-react-portfolio.netlify.app/)
 
 ### 📚 Projects
-- ⏰[Project management](https://track-your-project.netlify.app/)
-- 🦠[Covid-19 updates](https://track-your-project.netlify.app/)
-- ⚙️[3D carousel](https://html-image-carousel.netlify.app/)
+- [Project management](https://track-your-project.netlify.app/)⏰
+- [Covid-19 updates](https://track-your-project.netlify.app/)🦠
+- [3D carousel](https://html-image-carousel.netlify.app/)⚙️
 
 ### 🌈  Learning
 - Modern JS with Nodejs
