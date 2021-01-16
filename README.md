@@ -1,6 +1,7 @@
 ## ✨ Hello there ✨
 🖖🏻  Greetings from the Netherlands. I'm a webdeveloper who loves to create beautiful user interfaces to bring designs to life and solve complex problems/issues to       make life easier for everyone. Welcome to my profile and nice to meet you. 🖖🏻 
- 👯 I’m looking to forward to build my career as a developer.
+<br />
+ ⚡ I’m looking to forward to build my career as a developer.
 - [Find me (My portfolio)](https://my-react-portfolio.netlify.app/)
 
 ### 📚 Projects
@@ -16,7 +17,6 @@
 
 ### ★ Github stats
 ![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubashPradhan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubashPradhan&layout=compact&theme=radical&hide_border=true)
 
 <!--
 **SubashPradhan/subashPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
