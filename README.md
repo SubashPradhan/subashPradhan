@@ -1,13 +1,13 @@
 ## ✨ Hello there ✨
-🖖🏻  Greetings from the Netherlands. I'm a webdeveloper who loves to create beautiful user interfaces to bring designs to life and solve complex problems/issues to       make life easier for everyone. Welcome to my profile and nice to meet you. 🖖🏻 
+🖖🏻  Greetings from the Netherlands. I'm a webdeveloper who loves to create beautiful user interfaces and solve complex problems/issues. Welcome to my profile and nice to meet you. 🖖🏻 
 <br />
  ⚡ I’m looking to forward to build my career as a developer.
-- [Find me (My portfolio)](https://my-react-portfolio.netlify.app/)
+- 🥷[Find me (My portfolio)](https://my-react-portfolio.netlify.app/)
 
 ### 📚 Projects
-- [Project management](https://track-your-project.netlify.app/)
-- [Covid-19 updates](https://track-your-project.netlify.app/)
-- [3D carousel](https://html-image-carousel.netlify.app/)
+- ⏰[Project management](https://track-your-project.netlify.app/)
+- 🦠[Covid-19 updates](https://track-your-project.netlify.app/)
+- ⚙️[3D carousel](https://html-image-carousel.netlify.app/)
 
 ### 🌈  Learning
 - Modern JS with Nodejs
