@@ -6,7 +6,7 @@
 
 ### 📚 Projects
 - [Project management](https://track-your-project.netlify.app/)⏰
-- [Covid-19 updates](https://track-your-project.netlify.app/)🦠
+- [Covid-19 updates](https://covid-19-updates.netlify.app/)🦠
 - [3D carousel](https://html-image-carousel.netlify.app/)⚙️
 
 ### 🌈  Learning
